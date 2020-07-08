@@ -8,4 +8,3 @@ header:
  image: assets/images/banner.jpg
 ---
 
-{% translate_file about/about.md %}
