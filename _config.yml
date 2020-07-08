@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Bernardo Bastien"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Bernardo A. Bastien'Olvera"
+name                     : "Bernardo A. Bastien-Olvera"
 description              : "Web / Linux / Java / C"
 url                      : "https://berbastien.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

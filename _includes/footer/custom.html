@@ -9,9 +9,9 @@
       {% endfor %}
 	  {% endif %} 
 
-    <li><a href="https://github.com/jerry901/"><i class="fab fa-fw fa-github-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].github_label| default: "Github" }}</a></li>
-    <li><a href="mailto:pkhu2000@gmail.com"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label| default: "Email" }}</a></li>
-    <li><a href="https://www.instagram.com/p.halo_/"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].insta_label| default: "Insta" }}</a></li>
+    <li><a href="https://github.com/BerBastien/"><i class="fab fa-fw fa-github-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].github_label| default: "Github" }}</a></li>
+    <li><a href="bastien@ucdavis.edu"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label| default: "Email" }}</a></li>
+    <li><a href="https://www.instagram.com/Planeteand0/"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].insta_label| default: "Insta" }}</a></li>
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
