@@ -22,7 +22,7 @@ header:
 ## Awards
 
 - Big Ideas 2020 winner. UC Berkeley Blum Center.
-- Blackstone LaunchPag Fellowship
+- Blackstone LaunchPad Fellowship
 - 100 Grants. American Geophysical Union
 
 ## Support us on Patreon
