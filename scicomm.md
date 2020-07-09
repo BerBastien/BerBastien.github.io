@@ -14,15 +14,15 @@ header:
 - Podcast: Movies and Climate ([Spotify](https://open.spotify.com/show/45nKevIBFH09NZWAmO676w?si=lJrPz99ETbuJvePQEPFT7Q))
 - [Summer school on geoscience communication](https://planeteando.org/escuela2020/)
 
-##Partners
+## Partners
 
 - Eos American Geophyisical Union. [See translated blogs](https://planeteando.org/category/blog/eos/)
 - Unión Geofísica Mexicana
 
-##Awards
+## Awards
 
-- Big Ideas 2020 winner | UC Berkeley Blum Center
+- Big Ideas 2020 winner. UC Berkeley Blum Center.
 - Blackstone LaunchPag Fellowship
-- 100 Grants | American Geophysical Union
+- 100 Grants. American Geophysical Union
 
-##Support us on Patreon
+## Support us on Patreon
