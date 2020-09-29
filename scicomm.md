@@ -25,4 +25,4 @@ header:
 - Blackstone LaunchPad Fellowship
 - 100 Grants. American Geophysical Union
 
-## Support us on Patreon
+## Support us on [Patreon](https://www.patreon.com/planeteando)

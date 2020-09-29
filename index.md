@@ -12,3 +12,11 @@ I am a PhD candidate in Geography at UC Davis, working in integrated assessment 
  
 
 I am co-host and creator of [Planeteando](https://planeteando.org), a platform for climate change and environmental science communication.
+
+
+
+## Featured Research
+
+
+[Bastien-Olvera B A and Moore F C 2020 Use and non-use value of nature and the social cost of carbon Nature Sustainability 1–8](https://rdcu.be/b7N53)
+
