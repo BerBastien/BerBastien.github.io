@@ -6,6 +6,8 @@ main:
      url: /research/
    - title: "Scicomm"
      url: /scicomm/
+   - title: "Resume"
+     url: /resume/
 #   - title: "Scicomm"
 #     url: /scicomm/
    #- title: "Sitemap"
