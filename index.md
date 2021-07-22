@@ -18,6 +18,10 @@ See [Resume](https://berbastien.github.io/resume/)
 ## Featured Research
 
 
+[Bastien-Olvera B. A. and Moore F. C. (2021). Persistent Effect of Temperature on GDP Identified from Lower Frequency Temperature Variability. In Review](https://www.researchsquare.com/article/rs-601512/v1)
+
+
+
 [Bastien-Olvera B. A. and Moore F. C. (2020). Use and non-use value of nature and the social cost of carbon. Nature Sustainability, 1–8](https://rdcu.be/b7N53)
 
 
